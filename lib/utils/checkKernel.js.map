@@ -1,0 +1,1 @@
+{"version":3,"file":"checkKernel.js","sourceRoot":"","sources":["../../src/utils/checkKernel.ts"],"names":[],"mappings":";;;AAAA;;;;;GAKG;AACH,SAAgB,WAAW,CAAC,MAAkB,EAAE,YAAoB;IAClE,IAAI,MAAM,CAAC,MAAM,GAAG,CAAC,KAAK,CAAC,IAAI,MAAM,CAAC,CAAC,CAAC,CAAC,MAAM,GAAG,CAAC,KAAK,CAAC,EAAE;QACzD,MAAM,IAAI,SAAS,CACjB,GAAG,YAAY,4DAA4D,CAC5E,CAAC;KACH;AACH,CAAC;AAND,kCAMC"}

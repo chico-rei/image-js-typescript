@@ -1,0 +1,1 @@
+{"version":3,"file":"fromMask.d.ts","sourceRoot":"","sources":["../../src/roi/fromMask.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,IAAI,CAAC;AAG1B,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAGhD,MAAM,WAAW,eAAe;IAC9B;;;;OAIG;IACH,YAAY,CAAC,EAAE,OAAO,CAAC;CACxB;AAED;;;;;;GAMG;AACH,wBAAgB,QAAQ,CACtB,IAAI,EAAE,IAAI,EACV,OAAO,GAAE,eAAoB,GAC5B,aAAa,CA8Jf"}

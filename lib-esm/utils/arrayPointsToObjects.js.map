@@ -1,0 +1,1 @@
+{"version":3,"file":"arrayPointsToObjects.js","sourceRoot":"","sources":["../../src/utils/arrayPointsToObjects.ts"],"names":[],"mappings":"AAEA;;;;;GAKG;AACH,MAAM,UAAU,oBAAoB,CAAC,MAAe;IAClD,IAAI,MAAM,GAAiB,EAAE,CAAC;IAE9B,KAAK,IAAI,KAAK,IAAI,MAAM,EAAE;QACxB,MAAM,CAAC,IAAI,CAAC,CAAC,KAAK,CAAC,MAAM,EAAE,KAAK,CAAC,GAAG,CAAC,CAAC,CAAC;KACxC;IACD,OAAO,MAAM,CAAC;AAChB,CAAC"}

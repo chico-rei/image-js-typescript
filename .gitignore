@@ -117,9 +117,6 @@ dist
 
 .DS_Store
 
-lib
-lib-esm
-
 # debug images
 src/**/*.tif
 src/**/*.png

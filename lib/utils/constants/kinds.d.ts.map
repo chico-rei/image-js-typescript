@@ -1,0 +1,1 @@
+{"version":3,"file":"kinds.d.ts","sourceRoot":"","sources":["../../../src/utils/constants/kinds.ts"],"names":[],"mappings":"AAEA,UAAU,qBAAqB;IAC7B,CAAC,GAAG,EAAE,MAAM,GAAG;QACb,QAAQ,EAAE,MAAM,CAAC;QACjB,KAAK,EAAE,OAAO,CAAC;KAChB,CAAC;CACH;AAED,eAAO,MAAM,qBAAqB,EAAE,qBAiBnC,CAAC"}

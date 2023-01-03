@@ -1,0 +1,1 @@
+{"version":3,"file":"getBorderPoints.d.ts","sourceRoot":"","sources":["../../src/roi/getBorderPoints.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAC;AACzD,OAAO,EAAE,KAAK,EAAE,MAAM,0BAA0B,CAAC;AAEjD,OAAO,EAAE,GAAG,EAAE,MAAM,OAAO,CAAC;AAE5B;;;;;;;GAOG;AACH,wBAAgB,eAAe,CAC7B,GAAG,EAAE,GAAG,EACR,OAAO,GAAE,sBAA2B,GACnC,KAAK,CAAC,KAAK,CAAC,CAId"}

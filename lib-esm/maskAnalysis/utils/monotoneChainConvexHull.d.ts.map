@@ -1,0 +1,1 @@
+{"version":3,"file":"monotoneChainConvexHull.d.ts","sourceRoot":"","sources":["../../../src/maskAnalysis/utils/monotoneChainConvexHull.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,6BAA6B,CAAC;AAEpD,UAAU,WAAW;IACnB;;;;OAIG;IACH,MAAM,CAAC,EAAE,OAAO,CAAC;CAClB;AAED;;;;;;;GAOG;AACH,wBAAgB,uBAAuB,CACrC,MAAM,EAAE,KAAK,EAAE,EACf,OAAO,GAAE,WAAgB,GACxB,KAAK,EAAE,CA4BT"}

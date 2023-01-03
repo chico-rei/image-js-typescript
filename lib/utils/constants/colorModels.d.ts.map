@@ -1,0 +1,1 @@
+{"version":3,"file":"colorModels.d.ts","sourceRoot":"","sources":["../../../src/utils/constants/colorModels.ts"],"names":[],"mappings":"AAAA,oBAAY,eAAe;IACzB,IAAI,SAAS;IACb,KAAK,UAAU;IACf,GAAG,QAAQ;IACX,IAAI,SAAS;IACb,MAAM,WAAW;CAClB;AAED,eAAO,MAAM,WAAW,EAAE;KACvB,GAAG,IAAI,eAAe,GAAG;QACxB,UAAU,EAAE,MAAM,CAAC;QACnB,KAAK,EAAE,OAAO,CAAC;QACf,QAAQ,EAAE,MAAM,CAAC;KAClB;CA2BF,CAAC"}

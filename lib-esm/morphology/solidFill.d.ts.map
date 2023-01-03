@@ -1,0 +1,1 @@
+{"version":3,"file":"solidFill.d.ts","sourceRoot":"","sources":["../../src/morphology/solidFill.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,IAAI,CAAC;AAG1B,MAAM,WAAW,gBAAgB;IAC/B;;;;OAIG;IACH,YAAY,CAAC,EAAE,OAAO,CAAC;IACvB;;OAEG;IACH,GAAG,CAAC,EAAE,IAAI,CAAC;CACZ;AAED;;;;;;GAMG;AACH,wBAAgB,SAAS,CAAC,IAAI,EAAE,IAAI,EAAE,OAAO,GAAE,gBAAqB,GAAG,IAAI,CAO1E"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"clearBorder.d.ts","sourceRoot":"","sources":["../../src/morphology/clearBorder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,IAAI,CAAC;AAK1B,MAAM,WAAW,kBAAkB;IACjC;;;;OAIG;IACH,YAAY,CAAC,EAAE,OAAO,CAAC;IACvB;;OAEG;IACH,GAAG,CAAC,EAAE,IAAI,CAAC;CACZ;AACD;;;;;;GAMG;AACH,wBAAgB,WAAW,CACzB,IAAI,EAAE,IAAI,EACV,OAAO,GAAE,kBAAuB,GAC/B,IAAI,CASN"}
