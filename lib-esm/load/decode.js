@@ -16,6 +16,7 @@ export function decode(data) {
         case 'image/png':
             return decodePng(typedArray);
         case 'image/jpeg':
+        case 'image/jpg':
             return decodeJpeg(typedArray);
         case 'image/tiff':
             return decodeTiff(typedArray);
